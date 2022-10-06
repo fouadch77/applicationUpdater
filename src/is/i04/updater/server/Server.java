@@ -1,3 +1,5 @@
+package is.i04.updater.server;
+
 /**
  * @author MuaazH
  */
